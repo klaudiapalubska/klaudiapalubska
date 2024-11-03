@@ -9,6 +9,7 @@ Most of the projects have a live server available for checking out, or some of t
 🥈**Latest project that I completed:** [Rest countries API](https://github.com/klaudiapalubska/Rest-Countries-Api)
 
 You can check out my other projects, which are challenges from Frontend Mentor [here](https://github.com/klaudiapalubska/Frontend-Mentor-Challenges)
+My earliest projects are still available, so you can track my progress. 💙
 
 ## 💻 Tech Stack:
 
